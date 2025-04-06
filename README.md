@@ -1,2 +1,2 @@
 # JS-code-snippets
-This is a library for using JS code for webbed
+This is a library for using JS code for webdev
